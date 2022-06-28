@@ -12,6 +12,10 @@ header{font-family:Karla, sans-serif;
     font-size: 200%;
     text-align: center;
 }
+
+#sneakercentralleft {
+    background: url(../images/sneakercentralleft.jpeg);
+}
 body{
     background-color: tan;
     color: oldlace;
