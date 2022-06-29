@@ -35,6 +35,14 @@ p{
     padding: 30px;
 }
 
+.game{
+    padding: 10px;
+}
+
+p{
+    font-size: 150%;
+}
+
 .button{
     font-size: 150%;
     background-color: oldlace;
@@ -43,4 +51,8 @@ p{
     border-radius: 50px;
     margin: 15px;
     padding: 10px 10px;
+}
+
+.score{
+    font-size: 120%;
 }
