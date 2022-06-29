@@ -29,7 +29,18 @@ h2{
 p{
     text-align: center;
 }
-.img{
-    max-height: 33%;
-    max-width: 33%;
+
+.options{
+    text-align: center;
+    padding: 30px;
+}
+
+.button{
+    font-size: 150%;
+    background-color: oldlace;
+    color: saddlebrown;
+    border:none;
+    border-radius: 50px;
+    margin: 15px;
+    padding: 10px 10px;
 }
