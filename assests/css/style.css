@@ -22,7 +22,7 @@ body{
 
 }
 h2{
-    padding: 30px;
+    padding: 25px;
     text-align: center;
     font-size: 170%
 }
@@ -32,11 +32,11 @@ p{
 
 .options{
     text-align: center;
-    padding: 30px;
+    padding: 25px;
 }
 
 .game{
-    padding: 10px;
+    padding: 5px;
 }
 
 p{
