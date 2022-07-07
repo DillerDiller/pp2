@@ -18,22 +18,8 @@ function checkAnswer(){
 
  }
 
- function displayQuestionOne(){
+ function displayQuestions(){
 
- }
-
- function displayQuestionTwo(){
-
- }
- function displayQuestionThree(){
-
- }
- function displayQuestionFour(){
-
- }
-
- function displayQuestionFive(){
-    
  }
 
  let questions = [
