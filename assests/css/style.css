@@ -13,9 +13,7 @@ header{font-family:Karla, sans-serif;
     text-align: center;
 }
 
-#sneakercentralleft {
-    background: url(../images/sneakercentralleft.jpeg);
-}
+
 body{
     background-color: tan;
     color: oldlace;
@@ -51,6 +49,11 @@ p{
     border-radius: 50px;
     margin: 15px;
     padding: 10px 10px;
+}
+
+.button:hover{
+    background-color:saddlebrown;
+    color:oldlace;
 }
 
 .score{
