@@ -59,5 +59,10 @@ This site has a couple of feautures. The header, a question area, an answer area
    * The link for my site is https://dillerdiller.github.io/pp2/
    * My source code for Github is https://github.com/DillerDiller/pp2
 
+### Credits ###
+
+## Media ##
+   * I followed the Love Maths project to set up my initial JavaScript.
+   * For my idea of a multiple choice quiz I found a video on Youtube that I followed too. The link - https://www.youtube.com/watch?v=riDzcEQbX6k
 
  
