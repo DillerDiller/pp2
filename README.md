@@ -45,4 +45,19 @@ This site has a couple of feautures. The header, a question area, an answer area
 
 ## Unfixed Bugs ##
    * I was having issues implementing my JavaScript, so I have to go back and fix that.
+   * The alert over option 1 doesn't go away after you click it, it needs multiple clicks.
+
+## Deployment ##
+   * I used Github pages on Github to deploy my site.
+   * I went to my PP2 repository.
+   * I clicked settings.
+   * I then clicked pages on the left.
+   * I used the drop down menu and clicked main.
+   * I then saved it.
+   * The site refreshed.
+   * My site went live.
+   * The link for my site is https://dillerdiller.github.io/pp2/
+   * My source code for Github is https://github.com/DillerDiller/pp2
+
+
  
